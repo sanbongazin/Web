@@ -1,4 +1,3 @@
-# WebPortforio
+# いちやの写真ギャラリー
 ![あげる](ageru.jpg)
-
-![パスタ] (pasta.jpeg)
+![ぱすた](pasta.jpeg)
